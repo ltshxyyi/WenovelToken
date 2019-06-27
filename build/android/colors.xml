@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 25 Jun 2019 23:00:49 GMT
+  Generated on Thu, 27 Jun 2019 14:15:24 GMT
 -->
 <resources>
   <color name="color_palette_primary_100">#ffd0deff</color>
@@ -96,25 +96,25 @@
   <color name="color_palette_translucent_light_90">#e6ffffff</color>
   <color name="color_palette_translucent_light_04">#0affffff</color>
   <color name="color_palette_translucent_light_08">#14ffffff</color>
-  <color name="color_scheme_primary_base_default">#ff3b66f5</color>  <!-- blue -->
+  <color name="color_scheme_primary_base_default">#ff3b66f5</color><!-- blue -->
   <color name="color_scheme_primary_base_dark">#ff769cff</color>
   <color name="color_scheme_primary_light_default">#ff769cff</color>
   <color name="color_scheme_primary_light_dark">#ff0c28a5</color>
   <color name="color_scheme_primary_lighter_default">#ffd0deff</color>
   <color name="color_scheme_primary_lighter_dark">#ff0c28a5</color>
-  <color name="color_scheme_secondary_base_default">#ffeb1551</color>  <!-- red -->
+  <color name="color_scheme_secondary_base_default">#ffeb1551</color><!-- red -->
   <color name="color_scheme_secondary_base_dark">#fffb5880</color>
   <color name="color_scheme_secondary_light_default">#fffb5880</color>
   <color name="color_scheme_secondary_light_dark">#ff950030</color>
   <color name="color_scheme_secondary_lighter_default">#ffffc3cf</color>
   <color name="color_scheme_secondary_lighter_dark">#ff950030</color>
-  <color name="color_scheme_tertiary_base_default">#ffff8d29</color>  <!-- orange -->
+  <color name="color_scheme_tertiary_base_default">#ffff8d29</color><!-- orange -->
   <color name="color_scheme_tertiary_base_dark">#ffffbc69</color>
   <color name="color_scheme_tertiary_light_default">#ffffbc69</color>
   <color name="color_scheme_tertiary_light_dark">#ffe34c01</color>
   <color name="color_scheme_tertiary_lighter_default">#ffffecca</color>
   <color name="color_scheme_tertiary_lighter_dark">#ffe34c01</color>
-  <color name="color_scheme_quaternary_base_default">#ff23c394</color>  <!-- green -->
+  <color name="color_scheme_quaternary_base_default">#ff23c394</color><!-- green -->
   <color name="color_scheme_quaternary_base_dark">#ff62e9bd</color>
   <color name="color_scheme_quaternary_light_default">#ff62e9bd</color>
   <color name="color_scheme_quaternary_light_dark">#ff025743</color>
@@ -126,12 +126,12 @@
   <color name="color_scheme_background_white_dark">#ff25262f</color>
   <color name="color_scheme_surface_base_default">#ffffffff</color>
   <color name="color_scheme_surface_base_dark">#ff25262f</color>
-  <color name="color_scheme_surface_lighter_default">#fff6f7fc</color>
-  <color name="color_scheme_surface_lighter_dark">#ff121217</color>
-  <color name="color_scheme_surface_light_default">#ffd5d7e9</color>
-  <color name="color_scheme_surface_light_dark">#ff3e3f4d</color>
-  <color name="color_scheme_surface_inverse_default">#ff25262f</color>
-  <color name="color_scheme_surface_inverse_dark">#ffb4b7cd</color>
+  <color name="color_scheme_surface_lightest_default">#fff6f7fc</color>
+  <color name="color_scheme_surface_lightest_dark">#ff121217</color>
+  <color name="color_scheme_surface_lighter_default">#ffd5d7e9</color>
+  <color name="color_scheme_surface_lighter_dark">#ff3e3f4d</color>
+  <color name="color_scheme_surface_darker_default">#ff25262f</color>
+  <color name="color_scheme_surface_darker_dark">#ffb4b7cd</color>
   <color name="color_scheme_onbackground_base_high_default">#e6121217</color>
   <color name="color_scheme_onbackground_base_high_dark">#e6ffffff</color>
   <color name="color_scheme_onbackground_base_medium_default">#99121217</color>
@@ -158,5 +158,15 @@
   <color name="color_scheme_scrim_darker_dark">#e6121217</color>
   <color name="color_scheme_overlay_base_default">#1f121217</color>
   <color name="color_scheme_overlay_base_dark">#1fffffff</color>
-
+  <color name="color_scheme_overlay_primary_default">#1f3b66f5</color>
+  <color name="color_scheme_overlay_primary_dark">#3d3b66f5</color>
+  <color name="color_scheme_gradient_primary_00_default">#ff3b66f5</color>
+  <color name="color_scheme_gradient_primary_00_dark">#ff557ffc</color>
+  <color name="color_scheme_gradient_primary_01_default">#ff163bcd</color>
+  <color name="color_scheme_gradient_primary_01_dark">#ffa0bdff</color>
+  <color name="color_scheme_gradient_tertiary_00_default">#ffff8d29</color>
+  <color name="color_scheme_gradient_tertiary_00_dark">#ffff8d29</color>
+  <color name="color_scheme_gradient_tertiary_01_default">#ffe34c01</color>
+  <color name="color_scheme_gradient_tertiary_01_dark">#ffffbc69</color>
+  
 </resources>

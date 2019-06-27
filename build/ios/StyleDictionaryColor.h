@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 25 Jun 2019 23:00:49 GMT
+// Generated on Thu, 27 Jun 2019 14:15:24 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -131,12 +131,12 @@ ColorSchemeBackgroundWhiteDefault,
 ColorSchemeBackgroundWhiteDark,
 ColorSchemeSurfaceBaseDefault,
 ColorSchemeSurfaceBaseDark,
+ColorSchemeSurfaceLightestDefault,
+ColorSchemeSurfaceLightestDark,
 ColorSchemeSurfaceLighterDefault,
 ColorSchemeSurfaceLighterDark,
-ColorSchemeSurfaceLightDefault,
-ColorSchemeSurfaceLightDark,
-ColorSchemeSurfaceInverseDefault,
-ColorSchemeSurfaceInverseDark,
+ColorSchemeSurfaceDarkerDefault,
+ColorSchemeSurfaceDarkerDark,
 ColorSchemeOnbackgroundBaseHighDefault,
 ColorSchemeOnbackgroundBaseHighDark,
 ColorSchemeOnbackgroundBaseMediumDefault,
@@ -162,7 +162,17 @@ ColorSchemeScrimBaseDark,
 ColorSchemeScrimDarkerDefault,
 ColorSchemeScrimDarkerDark,
 ColorSchemeOverlayBaseDefault,
-ColorSchemeOverlayBaseDark
+ColorSchemeOverlayBaseDark,
+ColorSchemeOverlayPrimaryDefault,
+ColorSchemeOverlayPrimaryDark,
+ColorSchemeGradientPrimary00Default,
+ColorSchemeGradientPrimary00Dark,
+ColorSchemeGradientPrimary01Default,
+ColorSchemeGradientPrimary01Dark,
+ColorSchemeGradientTertiary00Default,
+ColorSchemeGradientTertiary00Dark,
+ColorSchemeGradientTertiary01Default,
+ColorSchemeGradientTertiary01Dark
 };
 
 @interface StyleDictionaryColor : NSObject

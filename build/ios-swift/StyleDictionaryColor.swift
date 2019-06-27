@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Tue, 25 Jun 2019 23:00:49 GMT
+// Generated on Thu, 27 Jun 2019 14:15:24 GMT
 //
 
 import UIKit
@@ -104,6 +104,14 @@ public enum StyleDictionaryColor {
     static let schemeBackgroundBaseDefault = UIColor(red: 0.96, green: 0.97, blue: 0.99, alpha:1)
     static let schemeBackgroundWhiteDark = UIColor(red: 0.15, green: 0.15, blue: 0.18, alpha:1)
     static let schemeBackgroundWhiteDefault = UIColor(red: 1.00, green: 1.00, blue: 1.00, alpha:1)
+    static let schemeGradientPrimary00Dark = UIColor(red: 0.33, green: 0.50, blue: 0.99, alpha:1)
+    static let schemeGradientPrimary00Default = UIColor(red: 0.23, green: 0.40, blue: 0.96, alpha:1)
+    static let schemeGradientPrimary01Dark = UIColor(red: 0.63, green: 0.74, blue: 1.00, alpha:1)
+    static let schemeGradientPrimary01Default = UIColor(red: 0.09, green: 0.23, blue: 0.80, alpha:1)
+    static let schemeGradientTertiary00Dark = UIColor(red: 1.00, green: 0.55, blue: 0.16, alpha:1)
+    static let schemeGradientTertiary00Default = UIColor(red: 1.00, green: 0.55, blue: 0.16, alpha:1)
+    static let schemeGradientTertiary01Dark = UIColor(red: 1.00, green: 0.74, blue: 0.41, alpha:1)
+    static let schemeGradientTertiary01Default = UIColor(red: 0.89, green: 0.30, blue: 0.00, alpha:1)
     static let schemeOnbackgroundBaseDisableDark = UIColor(red: 1.00, green: 1.00, blue: 1.00, alpha:0.6)
     static let schemeOnbackgroundBaseDisableDefault = UIColor(red: 0.07, green: 0.07, blue: 0.09, alpha:0.6)
     static let schemeOnbackgroundBaseHighDark = UIColor(red: 1.00, green: 1.00, blue: 1.00, alpha:0.9)
@@ -126,6 +134,8 @@ public enum StyleDictionaryColor {
     static let schemeOutlineBaseDefault = UIColor(red: 0.07, green: 0.07, blue: 0.09, alpha:0.1)
     static let schemeOverlayBaseDark = UIColor(red: 1.00, green: 1.00, blue: 1.00, alpha:0.12)
     static let schemeOverlayBaseDefault = UIColor(red: 0.07, green: 0.07, blue: 0.09, alpha:0.12)
+    static let schemeOverlayPrimaryDark = UIColor(red: 0.23, green: 0.40, blue: 0.96, alpha:0.24)
+    static let schemeOverlayPrimaryDefault = UIColor(red: 0.23, green: 0.40, blue: 0.96, alpha:0.12)
     static let schemePrimaryBaseDark = UIColor(red: 0.46, green: 0.61, blue: 1.00, alpha:1)
     static let schemePrimaryBaseDefault = UIColor(red: 0.23, green: 0.40, blue: 0.96, alpha:1)
     static let schemePrimaryLightDark = UIColor(red: 0.05, green: 0.16, blue: 0.65, alpha:1)
@@ -150,12 +160,12 @@ public enum StyleDictionaryColor {
     static let schemeSecondaryLighterDefault = UIColor(red: 1.00, green: 0.76, blue: 0.81, alpha:1)
     static let schemeSurfaceBaseDark = UIColor(red: 0.15, green: 0.15, blue: 0.18, alpha:1)
     static let schemeSurfaceBaseDefault = UIColor(red: 1.00, green: 1.00, blue: 1.00, alpha:1)
-    static let schemeSurfaceInverseDark = UIColor(red: 0.71, green: 0.72, blue: 0.80, alpha:1)
-    static let schemeSurfaceInverseDefault = UIColor(red: 0.15, green: 0.15, blue: 0.18, alpha:1)
-    static let schemeSurfaceLightDark = UIColor(red: 0.24, green: 0.25, blue: 0.30, alpha:1)
-    static let schemeSurfaceLightDefault = UIColor(red: 0.84, green: 0.84, blue: 0.91, alpha:1)
-    static let schemeSurfaceLighterDark = UIColor(red: 0.07, green: 0.07, blue: 0.09, alpha:1)
-    static let schemeSurfaceLighterDefault = UIColor(red: 0.96, green: 0.97, blue: 0.99, alpha:1)
+    static let schemeSurfaceDarkerDark = UIColor(red: 0.71, green: 0.72, blue: 0.80, alpha:1)
+    static let schemeSurfaceDarkerDefault = UIColor(red: 0.15, green: 0.15, blue: 0.18, alpha:1)
+    static let schemeSurfaceLighterDark = UIColor(red: 0.24, green: 0.25, blue: 0.30, alpha:1)
+    static let schemeSurfaceLighterDefault = UIColor(red: 0.84, green: 0.84, blue: 0.91, alpha:1)
+    static let schemeSurfaceLightestDark = UIColor(red: 0.07, green: 0.07, blue: 0.09, alpha:1)
+    static let schemeSurfaceLightestDefault = UIColor(red: 0.96, green: 0.97, blue: 0.99, alpha:1)
     static let schemeTertiaryBaseDark = UIColor(red: 1.00, green: 0.74, blue: 0.41, alpha:1)
     static let schemeTertiaryBaseDefault = UIColor(red: 1.00, green: 0.55, blue: 0.16, alpha:1)
     static let schemeTertiaryLightDark = UIColor(red: 0.89, green: 0.30, blue: 0.00, alpha:1)
