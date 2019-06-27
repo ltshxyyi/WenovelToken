@@ -136,7 +136,7 @@
             "value": "{color.palette.gray.700.value}"
           }
         },
-        "lighter": {
+        "lightest": {
           "default": {
             "value": "{color.palette.gray.050.value}"
           },
@@ -144,7 +144,7 @@
             "value": "{color.palette.gray.900.value}"
           }
         },
-        "light": {
+        "lighter": {
           "default": {
             "value": "{color.palette.gray.200.value}"
           },
@@ -152,7 +152,7 @@
             "value": "{color.palette.gray.600.value}"
           }
         },
-        "inverse": {
+        "darker": {
           "default": {
             "value": "{color.palette.gray.700.value}"
           },
@@ -278,6 +278,52 @@
           },
           "dark": {
             "value": "{color.palette.translucent.light.12.value}"
+          }
+        },
+        "primary": {
+          "default": {
+            "value": "{color.palette.translucent.primary.12.value}"
+          },
+          "dark": {
+            "value": "{color.palette.translucent.primary.24.value}"
+          }
+        }
+      },
+      "gradient": {
+        "primary": {
+          "00": {
+            "default": {
+              "value": "{color.palette.primary.500.value}"
+            },
+            "dark": {
+              "value": "{color.palette.primary.400.value}"
+            }
+          },
+          "01": {
+            "default": {
+              "value": "{color.palette.primary.700.value}"
+            },
+            "dark": {
+              "value": "{color.palette.primary.200.value}"
+            }
+          }
+        },
+        "tertiary": {
+          "00": {
+            "default": {
+              "value": "{color.palette.tertiary.500.value}"
+            },
+            "dark": {
+              "value": "{color.palette.tertiary.500.value}"
+            }
+          },
+          "01": {
+            "default": {
+              "value": "{color.palette.tertiary.800.value}"
+            },
+            "dark": {
+              "value": "{color.palette.tertiary.300.value}"
+            }
           }
         }
       }
